@@ -73,7 +73,7 @@ Supported arguments:
 ### [**CRC-EBD: Epigenetic Biomarker Database for Colorectal Cancer.**](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7573234/)
 Liu X, Zhang X, Chen J, **Ye B**, Ren S, Lin Y, Sun X, Zhang H, Shen B.<br> 
 _Frontiers in Genetics._<br>
-_2020.10    (IF 3.25)_<br>
+_2020.10    (IF 3.25)
 [[PDF]({{ page.homepage.url }}/download/MyPaper/CRC-EBD.pdf)]
 [[PubMed](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7573234/)]
 
@@ -81,7 +81,7 @@ _2020.10    (IF 3.25)_<br>
 
 Zhang X, Sun X, Cao Y, **Ye B**, Peng Q, Liu X, Shen B, Zhang H.<br>
 _Database._<br>
-_2018.3    (IF 2.59)_<br>
+_2018.3    (IF 2.59)
 [[PDF]({{ page.homepage.url }}/download/MyPaper/CBD.pdf)]
 [[PubMed](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6007224/)]
 
@@ -89,7 +89,7 @@ _2018.3    (IF 2.59)_<br>
 
 Shen L, **Ye B**, Sun H, Lin Y, van Wietmarschen H, Shen B.<br>
 _Advances in experimental medicine and biology._<br>
-_2017.11    (IF 2.45)_<br>
+_2017.11    (IF 2.45) 
 [[PDF]({{ page.homepage.url }}/download/MyPaper/Systems_Health.pdf)]
 [[PubMed](https://pubmed.ncbi.nlm.nih.gov/29058221/)]
 
