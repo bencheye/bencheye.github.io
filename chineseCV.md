@@ -50,6 +50,24 @@ Supported arguments:
 - 生物工程
 - 学士
 
+## 能力优势
+
+英语 `英语六级` <br>
+基础生物知识 `生物化学、细胞生物学、分子生物学` <br>
+科研作图 `ggplot2、photoshop` <br>
+菌种多样性分析 `扩增子测序生信分析` <br>
+编程能力 `R语言、Python、Linux、C` <br>
+计算机 `计算机二级、微软认证IC3证书` <br>
+
+## 荣誉奖励
+
+校级二等奖学金 `苏州大学, 2018` <br>
+校级二等奖学金 `苏州大学, 2017` <br>
+校级二等奖学金 `苏州大学, 2016` <br>
+文典阁摄影大赛二等奖 `安徽大学, 2015` <br>
+校级三等奖学金 `安徽大学, 2013` <br>
+校级三等奖学金 `安徽大学, 2012` <br>
+
 ## 研究成果
 
 ### [**CRC-EBD: Epigenetic Biomarker Database for Colorectal Cancer.**](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7573234/)
@@ -75,6 +93,7 @@ _2017.11    (IF 2.45)_<br>
 [[PDF]({{ page.homepage.url }}/download/MyPaper/Systems_Health.pdf)]
 [[PubMed](https://pubmed.ncbi.nlm.nih.gov/29058221/)]
 
+---
 <!--
 ### [**Designing Declarative Language Tutorials: a Guided and Individualized Approach**](http://plateau-workshop.org/assets/papers-2019/2.pdf)
 
@@ -98,6 +117,14 @@ _Evaluation and Usability of Programming Languages and Tools (PLATEAU 2019), co-
 **Wode Ni**.<br> _Dickinson College Honors Theses. Paper 221._<br>
 [[PDF]({{ page.homepage.url }}/assets/superres.pdf)]
 -->
+## 科研经历
+
+### **浙江大学健康医疗大数据研究中心** `2020.8 - 2021.3`
+
+科研助理<br>
+
+### **苏州金唯智生物科技有限公司** `2019.12 - 2020.7`
+
 
 ## 工作经历
 
@@ -121,14 +148,11 @@ _Software Engineering Intern_<br>
 Worked on server-side web applications and server deployment tools.
 -->
 
-## Honors & Awards
+## 实践经历
 
-校级二等奖学金 `苏州大学, 2018` <br>
-校级二等奖学金 `苏州大学, 2017` <br>
-校级二等奖学金 `苏州大学, 2016` <br>
-文典阁摄影大赛二等奖 `安徽大学, 2015` <br>
-校级三等奖学金 `安徽大学, 2013` <br>
-校级三等奖学金 `安徽大学, 2012` <br>
+四川大学华西医院系统遗传研究院 `2019.4-2019.10` <br>
+参加第十届R语言大会 `2017.5` <br>
+第二届生物医学工程国际会议志愿者`2015.10` <br>
 
 ---
 <!--
@@ -146,11 +170,7 @@ Peer Tutor, **Data Structures and Problem Solving (COMP 232)** `Dickinson, 2016`
 Computer Lab Consultant `Dickinson, 2014 - 2016` <br>
 -->
 
-## 实践经历
 
-四川大学华西医院系统遗传研究院 `2019.4-2019.10`
-参加第十届R语言大会 `2017.5`
-第二届生物医学工程国际会议志愿者`2015.10`
 
 <!-- ### Footer
 
