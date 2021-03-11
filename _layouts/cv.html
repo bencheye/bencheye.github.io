@@ -1,6 +1,26 @@
+<!--新增简历设置模块-->
+{% assign header = content | split: '<hr />' | first | strip %}
+{% assign main = content | split: '<hr />' | shift | join: '<hr />' %}
+{% if site.querytime %}
+  {% assign querytime = site.time | date: '%s' | prepend: '?' %}
+{% endif %}
+<!--新增简历设置模块-->
+
 <!DOCTYPE html>
 <html>
+<!--新增简历设置模块-->
+{% if page.lang.size > 0 %}
+  lang="{{ page.lang }}"
+{% endif %}{% if site.manifest.size > 0 %}
+  manifest="{{site.manifest}}{{querytime}}"
+{% endif %}>
+<!--新增简历设置模块-->
   <head>
+	<!--新增简历设置模块-->
+	<meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+	<meta name="HandheldFriendly" content="true"/>
+	<meta name="viewport" content="width=device-width, initial-scale=1"/>
+	<!--新增简历设置模块-->
     <meta charset="utf-8" />
     <title>{% if page.title %} {{ page.title }} | {% endif %} CV</title>
     <link
