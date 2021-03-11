@@ -140,14 +140,14 @@ Alpha Lambda Delta, First year Honor Society `Dickinson, 2013`<br>
 John Montgomery Scholarship `Dickinson, 2013` <br>
 
 ---
-
+<!--
 ## Teaching
 
 Teaching Assistant, **Programming Languages and Translators (COMS 4115)** `Columbia, 2017 - 2018` <br>
 Teaching Assistant, **Introduction to Java II (COMP 132)** `Dickinson, 2016` <br>
 Peer Tutor, **Data Structures and Problem Solving (COMP 232)** `Dickinson, 2016` <br>
 Computer Lab Consultant `Dickinson, 2014 - 2016` <br>
-
+-->
 
 ## Service
 

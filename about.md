@@ -1,33 +1,157 @@
 ---
-layout: page
-title: 关于我 
+layout: cv
+title: 叶本晨
+email:
+  url: benchen1993@163.com
+  text: benchen1993@163.com 
+homepage:
+  url: http:bencheye.github.io
+  text: http:bencheye.github.io
 ---
 
-一个工作6年的 iOS SDK 开发者，在一家游戏公司做SDK开发和维护。
+#  **叶本晨**
 
-除了iOS技术，我还一直维护着这个博客，懂一些前端的基础知识。
+<!--
+include contact information from the front matter
+Supported arguments:
+    - homepage: url, text
+        - phone
+        - email
+-->
 
-平时喜欢用python写一些工具，能用工具做的事情坚决不用人工去操作。
+{% include cv-contact.html %}
 
-<h2> 我们的博客 </h2>  
+## 教育
+<!--
+### **安徽大学** `2011.9 -2015.6`
 
-这个博客是我们大家的，目前已经有很大一部分人在使用我的博客模板了，我也很高兴大家使用我的模板。
+```
+生物工程, 学士
+```
 
-如果你想搭建一个跟我一样的博客，可以看我的 
-<a href="/2016/10/jekyll_tutorials1/"> Jekyll 搭建个人博客 </a>
-教程
+- Ph.D. in Software Engineering
+- Co-advised by [Ken Koedinger](http://pact.cs.cmu.edu/koedinger.html) and [Josh Sunshine](http://www.cs.cmu.edu/~jssunshi/)
+-->
+### **苏州大学** `2016.9 - 2019.12`
 
+```
+苏州
+```
 
-有关于博客主题的建议和意见都可以提给我，让我们一起来打造一个精美的主题吧~ 
+- 医学系统生物学
+- 硕士
 
-博客源码在 <a target="_blank" href='https://github.com/leopardpan/leopardpan.github.io/'>Github</a> 上，你的 Star 是我更新的动力，谢谢~
+### **安徽大学** `2011.9 -2015.6`
 
+```
+合肥
+```
 
-<h3> 搭建博客遇到了问题解法方法 </h3>  
+- 生物工程
+- 学士
 
-查看 [技术支持](https://leopardpan.cn/support/) 需求帮助
+## 研究成果
 
-博客模板会一直持续更新，请持续关注我，谢谢~
+### [**CRC-EBD: Epigenetic Biomarker Database for Colorectal Cancer.**](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7573234/)
+Liu X, Zhang X, Chen J, **Ye B**, Ren S, Lin Y, Sun X, Zhang H, Shen B.<br> 
+_Frontiers in Genetics._<br>
+_2020.10    (IF 3.25)_<br>
+[[PDF]({{ page.homepage.url }}/download/MyPaper/CRC-EBD.pdf)]
+[[PubMed](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7573234/)]
 
-{% include comments.html %}
+### [**CBD: a biomarker database for colorectal cancer.**](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6007224/)
 
+Zhang X, Sun X, Cao Y, **Ye B**, Peng Q, Liu X, Shen B, Zhang H.<br>
+_Database._<br>
+_2018.3    (IF 2.59)_<br>
+[[PDF]({{ page.homepage.url }}/download/MyPaper/CBD.pdf)]
+[[PubMed](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6007224/)]
+
+### [**Systems Health: A Transition from Disease Management Toward Health Promotion.**](https://pubmed.ncbi.nlm.nih.gov/29058221/)
+
+Shen L, **Ye B**, Sun H, Lin Y, van Wietmarschen H, Shen B.<br>
+_Advances in experimental medicine and biology._<br>
+_2017.11    (IF 2.45)_<br>
+[[PDF]({{ page.homepage.url }}/download/MyPaper/Systems_Health.pdf)]
+[[PubMed](https://pubmed.ncbi.nlm.nih.gov/29058221/)]
+
+<!--
+### [**Designing Declarative Language Tutorials: a Guided and Individualized Approach**](http://plateau-workshop.org/assets/papers-2019/2.pdf)
+
+Anael Kuperwajs Cohen, **Wode Ni**, and Joshua Sunshine.<br>
+_Evaluation and Usability of Programming Languages and Tools (PLATEAU 2019), co-located with UIST._<br>
+[[PDF](http://plateau-workshop.org/assets/papers-2019/2.pdf)]
+[[slides]({{ page.homepage.url }}/assets/plateau-19-presentation.pdf)]
+
+### [**Substance and Style: domain-specific languages for mathematical diagrams**](https://2017.splashcon.org/event/dsldi-2017-substance-and-style-domain-specific-languages-for-mathematical-diagrams)
+
+**Wode Ni\***, Katherine Ye\*, Joshua Sunshine, Jonathan Aldrich, and Keenan Crane.<br> _Domain-Specific Language Design and Implementation (DSLDI 2017), co-located with SPLASH._ <br>
+[[PDF]({{ page.homepage.url }}/assets/dsldi.pdf)]
+[[slides]({{ page.homepage.url }}/assets/dsldi-presentation.pdf)]
+[[www](http://penrose.ink)]
+[[repo](https://github.com/penrose/penrose)]
+
+---
+
+### [**Whiteboard Scanning Using Super-Resolution**](http://scholar.dickinson.edu/student_honors/221/)
+
+**Wode Ni**.<br> _Dickinson College Honors Theses. Paper 221._<br>
+[[PDF]({{ page.homepage.url }}/assets/superres.pdf)]
+-->
+
+## 工作经历
+
+### **浙江大学健康医疗大数据研究中心** `2020.8 - 2021.3`
+
+科研助理<br>
+
+### **苏州金唯智生物科技有限公司** `2019.12 - 2020.7`
+
+生信工程师<br>
+
+<!--
+### **Columbia University, Computer Graphics and User Interfaces Lab** `2017.1 - 2017.5`
+
+_Research Assistant_<br>
+Worked with prof. Steven Feiner, on **Cyber Affordance Visualization in Augumented Reality** project. Developed a Microsoft Hololens application that visualizes the Columbia campus in AR environment.
+
+### **AsiaInfo** `2015.6 - 2015.8`
+
+_Software Engineering Intern_<br>
+Worked on server-side web applications and server deployment tools.
+-->
+
+## Honors & Awards
+
+校级二等奖学金 `苏州大学, 2018` <br>
+校级二等奖学金 `苏州大学, 2017` <br>
+校级二等奖学金 `苏州大学, 2016` <br>
+文典阁摄影大赛二等奖 `安徽大学, 2015` <br>
+校级三等奖学金 `安徽大学, 2013` <br>
+校级三等奖学金 `安徽大学, 2012` <br>
+
+---
+<!--
+## Mentoring
+
+Max Krieger (CMU, independent research & [REUSE](https://www.cmu.edu/scs/isr/reuse/)) `CMU, 2018 - Now` <br>
+Courtney Miller (New College of Florida, [REUSE](https://www.cmu.edu/scs/isr/reuse/)) `CMU, 2019` <br>
+Anael Kuperwajs Cohen (Macalester College, [REUSE](https://www.cmu.edu/scs/isr/reuse/)) `CMU, 2019` <br>
+
+## Teaching
+
+Teaching Assistant, **Programming Languages and Translators (COMS 4115)** `Columbia, 2017 - 2018` <br>
+Teaching Assistant, **Introduction to Java II (COMP 132)** `Dickinson, 2016` <br>
+Peer Tutor, **Data Structures and Problem Solving (COMP 232)** `Dickinson, 2016` <br>
+Computer Lab Consultant `Dickinson, 2014 - 2016` <br>
+-->
+
+## 实践经历
+
+四川大学华西医院系统遗传研究院 `2019.4-2019.10`
+参加第十届R语言大会 `2017.5`
+第二届生物医学工程国际会议志愿者`2015.10`
+
+<!-- ### Footer
+
+Last updated: May 2013 -->
