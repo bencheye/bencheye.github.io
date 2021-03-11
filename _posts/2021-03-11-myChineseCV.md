@@ -2,11 +2,11 @@
 layout: cv
 title: 叶本晨
 email:
- text: benchen1993@163.com
-  url: benchen1993@163.com  
+  url: benchen1993@163.com
+  text: benchen1993@163.com 
 homepage:
- text: http:bencheye.github.io
   url: http:bencheye.github.io
+  text: http:bencheye.github.io
 ---
 
 #  **叶本晨**
