@@ -62,15 +62,10 @@ Supported arguments:
 ## 荣誉奖励
 
 - 校级二等奖学金 `苏州大学, 2018` <br>
-
 - 校级二等奖学金 `苏州大学, 2017` <br>
-
 - 校级二等奖学金 `苏州大学, 2016` <br>
-
 - 文典阁摄影大赛二等奖 `安徽大学, 2015` <br>
-
 - 校级三等奖学金 `安徽大学, 2013` <br>
-
 - 校级三等奖学金 `安徽大学, 2012` <br>
 
 ## 研究成果
@@ -78,31 +73,33 @@ Supported arguments:
 ### [**CRC-EBD: Epigenetic Biomarker Database for Colorectal Cancer.**](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7573234/)
 1. Liu X, Zhang X, Chen J, **Ye B**, Ren S, Lin Y, Sun X, Zhang H, Shen B.<br> 
 _Frontiers in Genetics._<br>
-```
+
+`
 2020.10    (IF 3.25)
 [[PDF]({{ page.homepage.url }}/download/MyPaper/CRC-EBD.pdf)]
 [[PubMed](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7573234/)]
-```
+`
+
 
 ### [**CBD: a biomarker database for colorectal cancer.**](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6007224/)
 
 2. Zhang X, Sun X, Cao Y, **Ye B**, Peng Q, Liu X, Shen B, Zhang H.<br>
 _Database._<br>
-```
+`
 2018.3    (IF 2.59)
 [[PDF]({{ page.homepage.url }}/download/MyPaper/CBD.pdf)]
 [[PubMed](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6007224/)]
-```
+`
 
 ### [**Systems Health: A Transition from Disease Management Toward Health Promotion.**](https://pubmed.ncbi.nlm.nih.gov/29058221/)
 
 3. Shen L, **Ye B**, Sun H, Lin Y, van Wietmarschen H, Shen B.<br>
 _Advances in experimental medicine and biology._<br>
-```
+`
 2017.11    (IF 2.45) 
 [[PDF]({{ page.homepage.url }}/download/MyPaper/Systems_Health.pdf)]
 [[PubMed](https://pubmed.ncbi.nlm.nih.gov/29058221/)]
-```
+`
 
 ---
 <!--
@@ -180,6 +177,8 @@ _Evaluation and Usability of Programming Languages and Tools (PLATEAU 2019), co-
 - 四川大学华西医院系统遗传研究院 `2019.4-2019.10` <br>
 - 参加第十届R语言大会 `2017.5` <br>
 - 第二届生物医学工程国际会议志愿者`2015.10` <br>
+- 参加同济大学医学院夏令营`2014.6` <br>
+- 安徽大学摄影协会秘书部部长`2012.10 - 2013.10` <br>
 
 ---
 <!--
