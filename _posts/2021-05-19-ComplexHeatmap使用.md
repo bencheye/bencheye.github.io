@@ -62,5 +62,10 @@ Heatmap(mat,
         column_split = cluster_info,
         top_annotation = top_anno, # 在热图上边增加注释
         column_title = NULL ) # 不需要列标题
+# 修改聚类树不同分组的颜色
+library(dendextend)
+row_dend = as.dendrogram(hclust(dist(mat)))
+row_dend = color_branches(row_dend, k = 2) # `color_branches()` returns a dendrogram object
+Heatmap(mat, name = "mat", cluster_rows = row_dend)
 ```
 
