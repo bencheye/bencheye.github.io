@@ -1,15 +1,15 @@
 ---
 layout: cv
-title: Wode "Nimo" Ni
+title: Benchen Ye
 email:
-  url: mailto:woden@cs.cmu.edu
-  text: woden@cs.cmu.edu
+  url: mailto:benche1993@163.com
+  text: benche1993@163.com
 homepage:
-  url: http://cs.cmu.edu/~woden
-  text: cs.cmu.edu/~woden
+  url: https://bencheye.github.io/
+  text: bencheye.github.io/
 ---
 
-# Wode **Ni**
+# Benchen **Ye**
 
 <!--
 include contact information from the front matter
@@ -23,135 +23,93 @@ Supported arguments:
 
 ## Education
 
-### **Carnegie Mellon University** `2018.9 -`
+### **Soochow University** `2016.9 - 2019.12`
 
 ```
-Pittsburgh, PA
+Suzhou, Jiangsu
 ```
 
-- Ph.D. in Software Engineering
-- Co-advised by [Ken Koedinger](http://pact.cs.cmu.edu/koedinger.html) and [Josh Sunshine](http://www.cs.cmu.edu/~jssunshi/)
+- M.S. in Medical Systems Biology
+- Advised by [Bairong Shen](http://yjs.cd120.com/showteacher.asp?id=804)
 
-### **Columbia University** `2016.9 - 2018.5`
-
-```
-New York, NY
-```
-
-- B.S. in Computer Science, _Magna Cum Laude_
-- Vision, Graphics track
-
-### **Dickinson College** `2013.9 - 2016.5`
+### **Anhui University** `2011.9 - 2015.5`
 
 ```
-Carlisle, PA
+Hefei, Anhui
 ```
 
-- B.S. in Computer Science, _Summa Cum Laude_
-- Computer Science Departmental Honors
+- B.E. in Bioengineering
 
 ## Publications
 
-### [**Penrose: From Mathematical Notation to Beautiful Diagrams**](http://penrose.ink/media/Penrose_SIGGRAPH2020.pdf)
-Katherine Ye, **Wode Ni**, Max Krieger, Dor Ma'ayan, Joshua Sunshine, Jonathan Aldrich, and Keenan Crane.<br> 
-_ACM Transactions on Graphics (SIGGRAPH'20)._<br>
-[[PDF](http://penrose.ink/media/Penrose_SIGGRAPH2020.pdf)]
-[[BibTeX]({{ page.homepage.url }}/assets/siggraph20-penrose.txt)]
-[[www](http://penrose.ink/siggraph20.html)]
-[[repo](https://github.com/penrose/penrose)]
+### [**CBD: a biomarker database for colorectal cancer.**](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6007224/pdf/bay046.pdf)
+Xueli Zhang, Xiao-Feng Sun, Yang Cao, **Benchen Ye**, Qiliang Peng, Xingyun Liu, Bairong Shen, Hong Zhang.<br> 
+_Database (Oxford) 2018 (IF 2.593)._<br>
+[[PDF](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6007224/pdf/bay046.pdf)]
+[[BibTeX](https://scholar.googleusercontent.com/scholar.bib?q=info:gPNFq7BMfSMJ:scholar.google.com/&output=citation&scisdr=CgUsmPvaELrSrlNGrHU:AAGBfm0AAAAAYNBAtHVfg6eLGBVH_nwu1oGnS6GCd1Wx&scisig=AAGBfm0AAAAAYNBAtPnweBfnGsxgkqL4qRDhm9KOCV4l&scisf=4&ct=citation&cd=-1&hl=en)]
+[[www](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6007224/)]
 
-### [**How Domain Experts Create Conceptual Diagrams and Implications for Tool Design**]({{ page.homepage.url }}/assets/chi-20-natural-diagramming.pdf)
+### [**CRC-EBD: Epigenetic Biomarker Database for Colorectal Cancer**](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7573234/pdf/fgene-11-00907.pdf)
+Xingyun Liu, Xueli Zhang, Jing Chen, **Benchen Ye**, Shumin Ren, Yuxin Lin, Xiao-Feng Sun, Hong Zhang, and Bairong Shen.<br>
+_Front Genet. 2020 (IF 3.256)._<br>
+[[PDF](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7573234/pdf/fgene-11-00907.pdf)]
+[[BibTeX](https://scholar.googleusercontent.com/scholar.bib?q=info:0X6VSqim6HYJ:scholar.google.com/&output=citation&scisdr=CgUsmPvaELrSrlNEg3M:AAGBfm0AAAAAYNBCm3Nhm8EvFlqAo10ATXhzHKPRAGma&scisig=AAGBfm0AAAAAYNBCm0YF_ryvh-qlU_rIQmyYyOt9Uspl&scisf=4&ct=citation&cd=-1&hl=en)]
+[[www](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7573234/)]
 
-Dor Ma'ayan\*, **Wode Ni\***, Katherine Ye, Chinmay Kulkarni, and Joshua Sunshine.<br>
-<i class="fas fa-award"></i> <strong>Best Paper Honourable Mention</strong><br>
-_In Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems (CHI'20)._<br>
-[[PDF]({{ page.homepage.url }}/assets/chi-20-natural-diagramming.pdf)]
-[[BibTeX]({{ page.homepage.url }}/assets/chi-20-natural-diagramming.txt)]
+### [**Systems Health: A Transition from Disease Management Toward Health Promotion.**](https://pubmed.ncbi.nlm.nih.gov.sci-hub.se/29058221/)
+Li Shen, **Benchen Ye**, Huimin Sun, Yuxin Lin, Herman van Wietmarschen, Bairong Shen.<br>
+_Evaluation and Usability of Programming Languages and Tools (IF 2.453)_<br>
+[[PDF](https://pubmed.ncbi.nlm.nih.gov.sci-hub.se/29058221/)]
+[[BibTeX](https://scholar.googleusercontent.com/scholar.bib?q=info:X1GU1ZMx7EUJ:scholar.google.com/&output=citation&scisdr=CgUsmPvaELrSrlNFvyU:AAGBfm0AAAAAYNBDpyXRMiWseW8GkyGiMfy0DyduiGSX&scisig=AAGBfm0AAAAAYNBDp6gDBaoXRjXW6GbV3cjHMHXsvBAm&scisf=4&ct=citation&cd=-1&hl=en)]
+[[www](https://pubmed.ncbi.nlm.nih.gov/29058221/)]
 
-### [**Defining Visual Narratives for Mathematics Declaratively**](http://plateau-workshop.org/assets/papers-2019/9.pdf)
+## Project
 
-Max Krieger, **Wode Ni**, and Joshua Sunshine.<br>
-_Evaluation and Usability of Programming Languages and Tools (PLATEAU 2019), co-located with UIST._<br>
-[[PDF](http://plateau-workshop.org/assets/papers-2019/9.pdf)]
-[[slides]({ page.homepage.url }}/aassets/plateau-19-presentation.pdf)]
+### Master thesis: Characterization of Network Feature Cancer Driver Genes.
+- Summaried four types of cancer driver genes with literature support.<br>
+- Analysed the enrichment features of network topology centraility of those cancer driver genes.<br>
+- Builded a better predictor model for cancer driver genes based on Random forests.<br>
 
-### [**Designing Declarative Language Tutorials: a Guided and Individualized Approach**](http://plateau-workshop.org/assets/papers-2019/2.pdf)
+### Update: A cancer biomarker database for microRNA
+- Collected 624 literatures about cancer miRNA biomarkers (2014-2016)
 
-Anael Kuperwajs Cohen, **Wode Ni**, and Joshua Sunshine.<br>
-_Evaluation and Usability of Programming Languages and Tools (PLATEAU 2019), co-located with UIST._<br>
-[[PDF](http://plateau-workshop.org/assets/papers-2019/2.pdf)]
-[[slides]({{ page.homepage.url }}/assets/plateau-19-presentation.pdf)]
-
-### [**Substance and Style: domain-specific languages for mathematical diagrams**](https://2017.splashcon.org/event/dsldi-2017-substance-and-style-domain-specific-languages-for-mathematical-diagrams)
-
-**Wode Ni\***, Katherine Ye\*, Joshua Sunshine, Jonathan Aldrich, and Keenan Crane.<br> _Domain-Specific Language Design and Implementation (DSLDI 2017), co-located with SPLASH._ <br>
-[[PDF]({{ page.homepage.url }}/assets/dsldi.pdf)]
-[[slides]({{ page.homepage.url }}/assets/dsldi-presentation.pdf)]
-[[www](http://penrose.ink)]
-[[repo](https://github.com/penrose/penrose)]
-
----
-
-### [**Whiteboard Scanning Using Super-Resolution**](http://scholar.dickinson.edu/student_honors/221/)
-
-**Wode Ni**.<br> _Dickinson College Honors Theses. Paper 221._<br>
-[[PDF]({{ page.homepage.url }}/assets/superres.pdf)]
+###  A biomarker database for colorectal cancer.
+- Discuss the database framework and establish the data selection criteria.
+- Collected 470 literatures about colorectal cancer biomarkers(2010-2014)
 
 ## Experience
 
-### **Microsoft Research** `2020.5 -`
+### **GENEWIZ** `2019.12 - 2020.7`
 
-_Research Intern_<br>
+_Bioinformatics Engineer_<br>
+16S/18S/ITS/23S sequencing data bioinformatics analysis project;<br>
+Optimize species diversity analysis process to improve efficiency;<br>
+Debug species identification software(python);<br>
 
-### **Carnegie Mellon University, Research Experiences for Undergraduate** `2017.5 - 2017.8`
-
-_Research Assistant_<br>
-**Penrose** is a system that automatically visualizes mathematics using two domain-specific languages: **Substance** and **Style**. Co-advised by [Jonathan Aldrich](https://www.cs.cmu.edu/~./aldrich/), [Keenan Crane](https://www.cs.cmu.edu/~kmcrane/), [Joshua Sunshine](http://www.cs.cmu.edu/~jssunshi/), and [Katherine Ye](https://www.cs.cmu.edu/~kqy/), I designed and implemented the Style language, and extended the Substance language to support functions and logically quantified statements.
-
-### **Columbia University, Computer Graphics and User Interfaces Lab** `2017.1 - 2017.5`
+### **Zhejiang University, School of Public Health** `2020.8 - 2021.4`
 
 _Research Assistant_<br>
-Worked with prof. Steven Feiner, on **Cyber Affordance Visualization in Augumented Reality** project. Developed a Microsoft Hololens application that visualizes the Columbia campus in AR environment.
-
-### **AsiaInfo** `2015.6 - 2015.8`
-
-_Software Engineering Intern_<br>
-Worked on server-side web applications and server deployment tools.
-
-## Mentoring
-
-Max Krieger (CMU, independent research & [REUSE](https://www.cmu.edu/scs/isr/reuse/)) `CMU, 2018 - Now` <br>
-Courtney Miller (New College of Florida, [REUSE](https://www.cmu.edu/scs/isr/reuse/)) `CMU, 2019` <br>
-Anael Kuperwajs Cohen (Macalester College, [REUSE](https://www.cmu.edu/scs/isr/reuse/)) `CMU, 2019` <br>
+Manage the cohort's questionnaire database;<br>
+clean and preprocess the questionnaire data;<br>
+AES Encrypt sensitive data;<br>
+statistical workload---Weekly report and monthly report, and visualization;<br>
 
 ## Honors & Awards
 
-CHI'20 Best Paper Honourable Mention Award `CMU, 2020` <br>
-Phi Beta Kappa `Dickinson, 2018` <br>
-Excellence in Computer Science Award `Columbia, 2018` <br>
-Travel Award PL Mentoring Workshop (PLMW) `SPLASH, 2018` <br>
-Tau Beta Pi, Engineering Honor Society `Columbia, 2017` <br>
-Computer Science Departmental Honors `Dickinson, 2016` <br>
-Pi Mu Epsilon, Mathematics Honor Society `Dickinson, 2016` <br>
-Upsilon Pi Epsilon, Computer Science Honor Society `Dickinson, 2016` <br>
-Alpha Lambda Delta, First year Honor Society `Dickinson, 2013`<br>
-John Montgomery Scholarship `Dickinson, 2013` <br>
+Second prize, Scholarship of School `Soochow University, 2018` <br>
+Second prize, Scholarship of School `Soochow University, 2017` <br>
+Second prize, Scholarship of School `Soochow University, 2016` <br>
+Third prize, Scholarship of School `Anhui University, 2013` <br>
+Third prize, Scholarship of School `Anhui University, 2012` <br>
 
 ---
 
-## Teaching
+## SKILLS AND TECHNIQUES
 
-Teaching Assistant, **Programming Languages and Translators (COMS 4115)** `Columbia, 2017 - 2018` <br>
-Teaching Assistant, **Introduction to Java II (COMP 132)** `Dickinson, 2016` <br>
-Peer Tutor, **Data Structures and Problem Solving (COMP 232)** `Dickinson, 2016` <br>
-Computer Lab Consultant `Dickinson, 2014 - 2016` <br>
+**Fields**: network modeling, statistic analysis and visualization, database construction, text mining, machine learning<br>
+**Skills**: R, Linux, Python, SQL, pytorch, docker, office, photoshop, HTML, PHP<br>
 
-
-## Service
-
-Reviewer `CHI 2021`
-Research Experiences for Undergraduates in Software Engineering Admission Committee `CMU, 2019 - 2020`
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: July 2021 -->
