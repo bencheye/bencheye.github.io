@@ -62,6 +62,8 @@ blog_button:
 # Navigation buttons in the front page.s
 nav:
     - {title: 所有文章, description: archive, url: '/archive'}   
+    - {title: 技术文章, description: technology, url: '/archive#technology'}
+    - {title: 传统文化, description: traditional culture, url: '/traditional-culture'}
     - {title: 标签, description: tags, url: '/tags'}      
     - {title: Resume, description: support, url: '/resume'}      
     - {title: 中文简历, description: about, url: '/chineseCV'}   
@@ -71,6 +73,19 @@ nav:
 plugins: [jekyll-paginate,jekyll-sitemap]
 paginate: 20
 paginate_path: "page/:num/"
+
+# 内容集合：传统文化文章独立存放，技术文章继续保留在 _posts/。
+collections:
+  traditional_culture:
+    output: true
+    permalink: /traditional-culture/:name/
+
+defaults:
+  - scope:
+      path: "_traditional_culture"
+      type: traditional_culture
+    values:
+      layout: post
 
 #简历打印样式设置
 subject-width: 20% #左边栏宽度
@@ -122,5 +137,4 @@ compress_html:
 sass:
   style: compressed
   sass_dir: _sass
-
 

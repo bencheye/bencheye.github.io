@@ -3,7 +3,7 @@ title: "complexHeatmap热图包使用"
 date: 2021-05-19
 description: ""
 
-tag: 
+tags: [技术, R, ComplexHeatmap]
 ---   
 
 ```R
@@ -74,4 +74,3 @@ row_dend = as.dendrogram(hclust(dist(mat)))
 row_dend = color_branches(row_dend, k = 2) # `color_branches()` returns a dendrogram object
 Heatmap(mat, name = "mat", cluster_rows = row_dend)
 ```
-

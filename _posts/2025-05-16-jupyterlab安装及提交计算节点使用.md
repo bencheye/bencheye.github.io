@@ -4,7 +4,7 @@ title: "jupyterlab安装及提交计算节点使用"
 date: 2025-05-16
 description: "如何安装jupyter-lab，提交计算节点使用，如何在jupyter中使用R"
 
-tag: 生信经验
+tags: [技术, 生信经验]
 ---   
 
 
@@ -151,6 +151,5 @@ cd /icto/user/yc47650/data-home/analysisProject # where you run this job
 jupyter lab --no-browser --port=${port} --ip=${node}
 # jupyter-notebook --no-browser --port=${port} --ip=${node}
 ```
-
 
 

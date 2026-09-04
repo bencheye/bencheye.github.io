@@ -6,9 +6,11 @@ group: navigation
 ---
 {% include JB/setup %}
 
+{% assign culture_posts = site.traditional_culture | sort: 'date' | reverse %}
 <ul class="tag_box inline">
   {% assign tags_list = site.tags %}  
   {% include JB/tags_list %}
+  <li><a href="#传统文化-ref">传统文化 <span>{{ culture_posts.size }}</span></a></li>
 </ul>
 
 <div class = "card">
@@ -22,4 +24,13 @@ group: navigation
 
 
 {% endfor %}
+
+  <h3 id="传统文化-ref">传统文化</h3>
+  <ul>
+  {% for post in culture_posts %}
+    {% if post.tags contains '传统文化' %}
+      <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+    {% endif %}
+  {% endfor %}
+  </ul>
 </div>
