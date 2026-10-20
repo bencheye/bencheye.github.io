@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="380" viewBox="0 0 900 380">
+<rect width="900" height="380" fill="white"/>
+<g font-family="Arial,sans-serif" fill="#273549"><text x="35" y="36" font-size="22" font-weight="bold">Relative Background TMM Factors</text>
+<text x="35" y="58" font-size="13">KO_DMSO = 1.000 within each mark | group-level summary</text></g>
+<g font-family="Arial,sans-serif" font-size="13"><circle cx="480" cy="80" r="6" fill="#2563eb"/><text x="494" y="84">WT_DMSO</text><circle cx="605" cy="80" r="6" fill="#64748b"/><text x="619" y="84">KO_DMSO</text><circle cx="735" cy="80" r="6" fill="#d97706"/><text x="749" y="84">KO_EPZ</text></g>
+<g stroke="#d7dde6"><line x1="270" y1="115" x2="270" y2="305"/><line x1="390" y1="115" x2="390" y2="305"/><line x1="510" y1="115" x2="510" y2="305"/><line x1="630" y1="115" x2="630" y2="305"/><line x1="750" y1="115" x2="750" y2="305"/></g>
+<g font-family="Arial,sans-serif" font-size="15" fill="#273549"><text x="40" y="142">K27me3</text><text x="40" y="192">K36me2</text><text x="40" y="242" font-weight="bold">K79me2</text><text x="40" y="292">Menin</text></g>
+<g fill="#2563eb"><circle cx="303.6" cy="128" r="6"/><circle cx="302.4" cy="178" r="6"/><circle cx="349.2" cy="228" r="6"/><circle cx="334.8" cy="278" r="6"/></g>
+<g fill="#64748b"><circle cx="330" cy="140" r="6"/><circle cx="330" cy="190" r="6"/><circle cx="330" cy="240" r="6"/><circle cx="330" cy="290" r="6"/></g>
+<g fill="#d97706"><circle cx="325.2" cy="152" r="6"/><circle cx="326.4" cy="202" r="6"/><circle cx="691.2" cy="252" r="8"/><circle cx="346.8" cy="302" r="6"/></g>
+<g fill="#a55e03" font-family="Arial,sans-serif" font-size="16" font-weight="bold"><text x="709" y="258">1.301</text></g>
+<g font-family="Arial,sans-serif" font-size="12" fill="#64748b"><text x="270" y="326" text-anchor="middle">0.95</text><text x="330" y="326" text-anchor="middle">1.00</text><text x="450" y="326" text-anchor="middle">1.10</text><text x="570" y="326" text-anchor="middle">1.20</text><text x="690" y="326" text-anchor="middle">1.30</text><text x="750" y="326" text-anchor="middle">1.35</text><text x="490" y="359" text-anchor="middle" font-size="14">Factor ratio relative to KO_DMSO</text></g>
+</svg>
